@@ -1,0 +1,1 @@
+console.log("This massage is from other file that is connect by link.");
